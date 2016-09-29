@@ -4,7 +4,7 @@ The [Gambling environment](https://github.com/paulhendricks/gym-gambling) is a s
 
 ## Staking
 
-This environment corresponds to the version of the gambling problem described in Example 1.1 in [Algorithms for Reinforcement Learning by Csaba Szepesvari (2010)](https://sites.ualberta.ca/~szepesva/RLBook.html).
+This environment corresponds to the version of the gambling problem described in Example 1.2 in [Algorithms for Reinforcement Learning by Csaba Szepesvari (2010)](https://sites.ualberta.ca/~szepesva/RLBook.html).
 
 ## Future tasks
 
