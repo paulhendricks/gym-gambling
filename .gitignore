@@ -1,0 +1,7 @@
+build
+dist
+*.egg-info
+scratch
+*.pyc
+.idea
+**/.DS_Store
